@@ -1,0 +1,12 @@
+.sectionContainer {
+  width: 400px;
+}
+.sectionTitle {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 40px;
+  font-weight: 600;
+  color: transparent;
+  background-clip: text;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+}
